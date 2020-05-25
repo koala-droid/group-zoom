@@ -27,8 +27,15 @@ section h2 {
 
 }
 
+
+.quote {
+    color: brown;
+    text-align: center;
+}
+
 #footer {
     color: darkgreen;
     position: absolute;
     bottom: 0;
   }
+
