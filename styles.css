@@ -1,5 +1,8 @@
 
-
+h1 {
+    color:darkgreen;
+    text-align: center;
+}
 
 
 
@@ -23,3 +26,9 @@ section h2 {
     color: darkgreen;
 
 }
+
+#footer {
+    color: darkgreen;
+    position: absolute;
+    bottom: 0;
+  }
