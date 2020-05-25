@@ -39,3 +39,32 @@ section h2 {
     bottom: 0;
   }
 
+.sidebar{
+    border:20px solid #efefef;
+    margin-bottom: 2em;
+    padding: 1em;
+    display: inline-block;
+
+}
+
+.links  {
+    list-style: none;   
+   
+    padding: 0;       
+}
+
+.links a{
+    text-decoration: none;
+
+}
+
+.links a:hover,
+.links a:focus {    
+    color: #1792d2;
+}
+
+.sidebar-title {
+    text-align: center;
+
+
+}
