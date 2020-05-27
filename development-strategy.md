@@ -121,7 +121,7 @@ Styling for the new element
 
 ---
 
-## 4. main section
+## 5. main section
 
 __As a site visitor, I want to get information about the subject
 
@@ -143,7 +143,7 @@ __As a site visitor, I want to get information about the subject
 
 - styling the section
 
-## 5. Finishing Touches
+## 6. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
 
